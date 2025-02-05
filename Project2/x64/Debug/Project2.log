@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\C_project\GameEasyX\Project2\sunflower_player.h(5,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“main.cpp”)
+  
+D:\C_project\GameEasyX\Project2\sunflower_player.h(6,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“main.cpp”)
+  
+  Project2.vcxproj -> D:\C_project\GameEasyX\Project2\x64\Debug\Project2.exe
