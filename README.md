@@ -1,15 +1,14 @@
-# GameDemoEasyX
-using C++ with EasyX to develop Games
+# C++游戏开发 + EasyX
+## 《打地鼠》
 
-All of these game demos are learning and developing from an Upper in Bilibili whose UID is 2586450 named Voidmatrix.
+> from Voidmatrix in Bilibili  [BV1d6qDYMEY5](https://www.bilibili.com/video/BV1d6qDYMEY5)
 
-The games are in different branches.
+打地鼠使一款经典考验手速的按击游戏。
 
-- project1 是 《提瓦提幸存者》
-  - 单人移动射击游戏（周围有子弹，不断击中生成的野猪）（类以撒某些关） 
-- project2 是 《植物明星大乱斗》
-  - 双人pvp 射击游戏（类拳皇）
-- project3 是 《空洞骑士》
-  - 单人Pve游戏
-- project4 是 《哈基米大冒险》
-  - 金山打字通警察抓小偷游戏
+> 开始界面
+![开始界面](md_resources/1.png "开始界面")
+> 游戏界面
+![游戏界面](md_resources/2.png "游戏界面")
+
+### 未来想做的
+- 修改得分逻辑，地鼠没敲到和敲错坑一样扣分。
