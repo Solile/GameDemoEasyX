@@ -1,7 +1,7 @@
 # C++游戏开发 + EasyX
 ## 《空洞骑士》
 
-> from Voidmatrix in Bilibili  [BV1sW42197dD](https://www.bilibili.com/video/BV1sW42197dD/?spm_id_from=333.1387.collection.video_card.click&vd_source=3e973ec0e34e920793ed03940c43c111)
+> from Voidmatrix in Bilibili  [BV1sW42197dD](https://www.bilibili.com/video/BV1sW42197dD)
 
 空洞骑士是一个pve的单人游戏。黄蜂女回根据当前的血量和状态概率选择下一环节会出的招式。玩家通过主动攻击和滑铲规避对方的伤害。最终打败黄蜂女，获得胜利。
 
