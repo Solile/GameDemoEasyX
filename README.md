@@ -1,12 +1,12 @@
 # C++游戏开发 + EasyX
 ## 《植物明星大乱斗》
 
-> from Voidmatrix in Bilibili  [BV1jx4y1t7eP](https://www.bilibili.com/video/BV1jx4y1t7eP/?spm_id_from=333.1387.collection.video_card.click&vd_source=3e973ec0e34e920793ed03940c43c111)
+> from Voidmatrix in Bilibili  [BV1jx4y1t7eP](https://www.bilibili.com/video/BV1jx4y1t7eP)
 
 植物明星大乱斗使一个双人对抗射击游戏。两个主控分别通过移动和发射子弹来击中对方，谁先血量清零或者掉下平台，则输掉游戏。
 
-- player1 wasd-移动 f-射击 G-power
-- player2 ↑←↓→-移动 .-射击 /-power
+- player1 **wasd-移动**  **f-射击**  **G-power**
+- player2 **↑←↓→-移动**  **.-射击**  **/-power**
 
 > 开始界面
 ![开始界面](md_resources/1.png "主界面-用于开始游戏和退出")
