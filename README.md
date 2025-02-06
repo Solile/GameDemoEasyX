@@ -1,7 +1,7 @@
 # C++游戏开发 + EasyX
 ## 《提瓦特幸存者》
 
-> from Voidmatrix in Bilibili  [BV1eM4m1S74K](https://www.bilibili.com/video/BV1eM4m1S74K/?spm_id_from=333.1387.collection.video_card.click&vd_source=3e973ec0e34e920793ed03940c43c111)
+> from Voidmatrix in Bilibili  [BV1eM4m1S74K](https://www.bilibili.com/video/BV1eM4m1S74K)
 
 提瓦特幸存者是一个移动(静止)撞击游戏。通过移动提瓦特，能够让悬浮在提瓦特周围的子弹命中不断奔过来的野猪。
 之所以说其是静止游戏，是通过多次进行游戏，我们可以发现，在不移动角色的情况下，反而存活的越久，击杀数越多。
